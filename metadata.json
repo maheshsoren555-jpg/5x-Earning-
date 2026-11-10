@@ -1,0 +1,6 @@
+{
+  "name": "StreamPulse",
+  "description": "Complete live streaming studio and playback application featuring real-time video pipeline configuration (ingest, ABR transcoding, CDN edge delivery, LL-HLS playback), live camera broadcasting, interactive live chat, and creator monetization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
